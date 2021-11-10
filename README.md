@@ -1,2 +1,3 @@
 # dimigocracker.github.io
-github pages
+
+그렇게 됐습니다.
