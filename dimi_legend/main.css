@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Hahmlet:wght@300&display=swap");
+body {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
+  flex-direction: column;
+  justify-content: space-evenly;
+  text-align: center;
+  font-size: 5vh;
+  height: 88vh;
+  padding: 4vh;
+  row-gap: 4vh;
+  column-gap: 4vh;
+  background: black;
+}
+a {
+  text-decoration: none;
+  color: black;
+  text-shadow: 0 0 4px black;
+  text-align: center;
+  border-radius: 10px;
+  border: 5px solid gold;
+  color: gold;
+  font-weight: bold;
+  line-height: 44vh;
+  font-family: "Hahmlet";
+  cursor: default;
+}
